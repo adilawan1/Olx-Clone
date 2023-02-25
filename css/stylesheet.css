@@ -1,0 +1,55 @@
+#aaa {
+  margin-left: 50%;
+}
+
+#aab {
+  margin-left: auto;
+}
+
+#blueee {
+  background-color: #007fed;
+  width: 100%;
+  height: 80px;
+}
+
+.back {
+  background-color: #f0f0f0;
+}
+
+a:link {
+  text-decoration: none;
+}
+
+.bg-gr {
+  background-color: rgb(80, 112, 47);
+  width: fit-content;
+  color: white;
+}
+
+p input {
+  width: 25%;
+  margin: 5px;
+  padding: 5px;
+}
+
+span p {
+  margin-left: 20px;
+}
+.lesswide {
+  width: 25%;
+}
+.limited-width {
+  width: fit-content;
+}
+.right-most {
+  margin-left: 10px;
+}
+.IWH {
+  margin-left: auto;
+}
+.height-50 {
+  height: 50%;
+}
+.height-100 {
+  height: 100%;
+}
